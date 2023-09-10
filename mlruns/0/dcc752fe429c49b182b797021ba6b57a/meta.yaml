@@ -1,0 +1,15 @@
+artifact_uri: file:///home/salma/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/dcc752fe429c49b182b797021ba6b57a/artifacts
+end_time: 1694376279682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcc752fe429c49b182b797021ba6b57a
+run_name: burly-owl-603
+run_uuid: dcc752fe429c49b182b797021ba6b57a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694376276300
+status: 4
+tags: []
+user_id: salma

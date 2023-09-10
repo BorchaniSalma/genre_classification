@@ -1,0 +1,15 @@
+artifact_uri: file:///home/salma/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/f401a99e5cf4446ea1a51d7c41ba352e/artifacts
+end_time: 1694374900736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f401a99e5cf4446ea1a51d7c41ba352e
+run_name: rogue-kite-203
+run_uuid: f401a99e5cf4446ea1a51d7c41ba352e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694374897354
+status: 4
+tags: []
+user_id: salma

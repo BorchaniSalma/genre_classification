@@ -1,0 +1,15 @@
+artifact_uri: file:///home/salma/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/91b06405fb0a457dace0341eb18f5770/artifacts
+end_time: 1694374592048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91b06405fb0a457dace0341eb18f5770
+run_name: polite-penguin-314
+run_uuid: 91b06405fb0a457dace0341eb18f5770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694374195140
+status: 4
+tags: []
+user_id: salma

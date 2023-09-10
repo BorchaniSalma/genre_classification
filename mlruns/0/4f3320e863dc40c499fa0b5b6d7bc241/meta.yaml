@@ -1,0 +1,15 @@
+artifact_uri: file:///home/salma/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/4f3320e863dc40c499fa0b5b6d7bc241/artifacts
+end_time: 1694375567921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f3320e863dc40c499fa0b5b6d7bc241
+run_name: awesome-stag-458
+run_uuid: 4f3320e863dc40c499fa0b5b6d7bc241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694375564577
+status: 4
+tags: []
+user_id: salma
